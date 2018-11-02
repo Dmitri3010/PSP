@@ -1,0 +1,5 @@
+﻿  ServerB.cpp
+e:\учеба\3 course\psp\laba4\serverb\serverb\serverb.cpp(124): warning C4101: ibuf: неиспользованная локальная переменная
+e:\учеба\3 course\psp\laba4\serverb\serverb\serverb.cpp(73): warning C4715: GetRequestFromClient: значение возвращается не при всех путях выполнения
+e:\учеба\3 course\psp\laba4\serverb\serverb\serverb.cpp(88): warning C4715: PutAnswerToClient: значение возвращается не при всех путях выполнения
+  ServerB.vcxproj -> E:\учеба\3 course\PSP\laba4\ServerB\Debug\ServerB.exe

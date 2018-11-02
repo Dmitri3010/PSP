@@ -1,0 +1,3 @@
+﻿  ClientB.cpp
+e:\учеба\3 course\psp\laba4\clientb\clientb\clientb.cpp(72): warning C4715: GetServer: значение возвращается не при всех путях выполнения
+  ClientB.vcxproj -> E:\учеба\3 course\PSP\laba4\ClientB\Debug\ClientB.exe
